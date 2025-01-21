@@ -24,8 +24,8 @@ Selain itu, Anda disarankan untuk membuat lingkungan virtual untuk menghindari k
 Kloning repositori ini ke mesin lokal Anda menggunakan perintah berikut:
 
 ```bash
-git clone https://github.com/username-anda/nama-repositori-anda.git
-cd nama-repositori-anda
+git clone https://github.com/AchmadMuafiTaufiqurrochman/js-obfuscator.git
+cd js-obfuscator
 ```
 
 ### Langkah 2: Install dependency 
